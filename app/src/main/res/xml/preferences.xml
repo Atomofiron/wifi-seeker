@@ -16,6 +16,7 @@
         android:icon="@drawable/ic_radar"
         android:key="work_in_bg"
         android:defaultValue="false"
+        android:enabled="false"
         />
     <PreferenceCategory
         android:title="@string/other"
